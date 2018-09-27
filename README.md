@@ -14,8 +14,8 @@
 |Safari:|	https://webkit.org/blog/6900/webdriver-support-in-safari-10/|
 
 ## 具体操作
-+ 将login_main.py中 Line 10 替换入自己的学号以及密码
-+ 当前脚本的默认采用的浏览器是Edge，如果不同进入login_wlrz.py按照注释进行修改
++ 将`login_main.py`中 Line 10 替换入自己的学号以及密码
++ 当前脚本的默认采用的浏览器是Edge，如果不同进入`login_wlrz.py`按照注释进行修改
 + 修改完毕后 `python login_main.py`就OK   
 
 **记得浏览器不要保存学号以及密码**  
